@@ -1,0 +1,5 @@
+pandas
+customtkinter
+openpyxl
+python-docx
+pillow
