@@ -1,15 +1,19 @@
+
 # Gerador de Relatórios de Gastos 📊
 Este projeto gera relatórios de gastos a partir de planilhas Excel automaticamente.
 
 ## 🚀 Como Usar
-1. Clone o repositório:
-git clone https://github.com/leticia-oliv/gerador-relatorios.git
+Clone o repositório:
 
-2. Instale as dependências:
-pip install -r requirements.txt
+    git clone https://github.com/leticia-oliv/gerador-relatorios.git
 
-3. Execute o programa:
-python main.py
+Instale as dependências:
+
+    pip install -r requirements.txt
+
+Execute o programa:
+
+    python main.py
 
 ## 📌 Funcionalidades
 - Interface amigável usando CustomTkinter
@@ -22,4 +26,4 @@ python main.py
 
 Para entender melhor a motivação, desenvolvimento e aplicação deste projeto, confira o artigo detalhado sobre seu caso de uso:
 
-[Leia o artigo aqui](#)
+[Leia o artigo aqui](https://medium.com/@leticiaoliv.araujo/automatizando-relat%C3%B3rios-com-python-um-caso-real-de-facilidade-no-escrit%C3%B3rio-915a82f1f02c)
