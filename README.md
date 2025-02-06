@@ -26,4 +26,4 @@ Execute o programa:
 
 Para entender melhor a motivação, desenvolvimento e aplicação deste projeto, confira o artigo detalhado sobre seu caso de uso:
 
-[Leia o artigo aqui](#https://medium.com/@leticiaoliv.araujo/automatizando-relat%C3%B3rios-com-python-um-caso-real-de-facilidade-no-escrit%C3%B3rio-915a82f1f02c)
+[Leia o artigo aqui](https://medium.com/@leticiaoliv.araujo/automatizando-relat%C3%B3rios-com-python-um-caso-real-de-facilidade-no-escrit%C3%B3rio-915a82f1f02c)
